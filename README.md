@@ -1,3 +1,9 @@
+![Project showcase](/mushroomFunfair.jpg)
+
+My entry to Decentraland's 2024 game jam.
+
+https://itch.io/jam/dclgx
+
 # SDK7 Template scene
 
 ## Try it out
