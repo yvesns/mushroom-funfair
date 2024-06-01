@@ -2,7 +2,17 @@
 
 My entry to Decentraland's 2024 game jam.
 
+The gameplay experience is a modified version of the guessing jar game, while the visuals are inspired by the jam's theme of a neon funfair with an additional thematic element of mushrooms.
+
+The overall scene contains a little bit of a parkour element that adds an element of exploration with visual gratification rewards.
+
+The central chest will open and also give the player a reward if he guesses the right amount of mushrooms. 
+
+Talk to the mushroom girl at the center of the scene for more specific instructions on how to play.
+
 Configure the Decentraland skybox in the settings to midnight for the best experience.
+
+Have fun!
 
 https://itch.io/jam/dclgx
 
