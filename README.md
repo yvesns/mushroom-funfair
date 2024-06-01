@@ -2,6 +2,8 @@
 
 My entry to Decentraland's 2024 game jam.
 
+Configure the Decentraland skybox in the settings to midnight for the best experience.
+
 https://itch.io/jam/dclgx
 
 # SDK7 Template scene
